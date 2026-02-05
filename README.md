@@ -1,8 +1,8 @@
-# Guía para entrevistas técnicas como Ingeniero de software
+# Guía de aprendizaje técnico
 
 ## Índice
 
-- [Guía para entrevistas técnicas como Ingeniero de software](#guía-para-entrevistas-técnicas-como-ingeniero-de-software)
+- [Guía técnica como Ingeniero de software](#guía-para-entrevistas-técnicas-como-ingeniero-de-software)
   - [Índice](#índice)
   - [Buenas prácticas](#buenas-prácticas)
     - [Principios SOLID](#principios-solid)
